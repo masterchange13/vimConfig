@@ -2,6 +2,8 @@
 set number
 set relativenumber
 
+inoremap jk <Esc>
+
 "语法高亮
 syntax on
 
